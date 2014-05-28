@@ -2,6 +2,7 @@ Application Controller PS3 v1.11
 ==========
 
 The purpose of this application is to:
+
 	- Allow the PS3 to control the PC via PS3 controller(s)
 	- Display the current screen or application window at high quality on the TV with little lag
 
