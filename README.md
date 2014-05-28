@@ -21,14 +21,17 @@ In order to compile this project you must have PSL1GHT installed properly.
 If you don't have PSL1GHT you may grab it from their website: http://psl1ght.com/ or their github www.github.com/HACKERCHANNEL/PSL1GHT.
 	
 Building
+
 	cd ApplicationControllerPS3
 	make
 
 Running with PS3Load
+
 	cd ApplicationControllerPS3
 	make run
 	
 Making a package
+
 	cd ApplicationControllerPS3
 	make pkg
 	
