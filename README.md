@@ -20,16 +20,16 @@ Compiling
 In order to compile this project you must have PSL1GHT installed properly.
 If you don't have PSL1GHT you may grab it from their website: http://psl1ght.com/ or their github www.github.com/HACKERCHANNEL/PSL1GHT.
 	
-Build:
-	cd AppControlPS3
+Building
+	cd ApplicationControllerPS3
 	make
 
-Run with PS3Load:
-	cd AppControlPS3
+Running with PS3Load
+	cd ApplicationControllerPS3
 	make run
 	
-Package:
-	cd AppControlPS3
+Making a package
+	cd ApplicationControllerPS3
 	make pkg
 	
 	
